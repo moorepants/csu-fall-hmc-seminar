@@ -7,22 +7,29 @@ Vision of the future
 - Too much data horded and only used once.
 - Software and data have a magic property: infinitely copiable with virtually
   zero cost per copy.
-- Stand on the shoulders of giants
 - We spend gobs of time getting results and once we get the result we make a
   plot an all the work we've done is lost. No one can actually build upon it.
-- Show software used to extract data from publication plots.
+- Show software used to extract data from publication plots. datathief.org
 
 What is reproducibility?
 
+- Stand on the shoulders of giants
 - Who has ever found a bug in their program or a mistake in their work? Do you
   have work that you think is bug free, mistake free?
-- Show stats of how many psy expriments can't be reproduced.
-- Show stats on how many computer code with papers can acutally be run.
+- How much time do you spend developing code, simulation, etc that run
+  computations for your results? Why should we reinvent the wheel?
+- Show stats of how many psyc expriments can't be reproduced:
+  http://www.jove.com/blog/2012/05/03/studies-show-only-10-of-published-science-articles-are-reproducible-what-is-happening
+- Show stats on how many computer code with papers can acutally be run.:
+  http://reproducibility.cs.arizona.edu/v1/index.html
+  http://cs.brown.edu/~sk/Memos/Examining-Reproducibility/
 - OS vm image with working software.
 - cite the greg wilson paper in plos biology:
   http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745
 - read this: http://web.stanford.edu/~vcs/papers/CiSE2012-LMS.pdf
 - http://johncarlosbaez.wordpress.com/2011/10/15/the-science-code-manifesto/
+- http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0020124
+  why most published research findings are false
 
 Citations
 
@@ -85,18 +92,13 @@ son for not sharing code
  affair, but rather a social construct with a spectrum of
  meanings that supports a gradual learning curve
 
-he principal goal of these discussions
-and workshops is to develop publica-
-tion standards akin to both the proof
-in mathematics and the deductive
-sciences, and the detailed descriptive protocols
-in the empirical sciences (the “methods” section
-of a paper describing the mechanics of the con-
-trolled experiment and hypothesis test). Compu-
-tational science is only a few decades old and must
-develop similar standards, so that other research-
-ers in the field can independently verify pub-
-lished results
+The principal goal of these discussions and workshops is to develop publica-
+tion standards akin to both the proof in mathematics and the deductive
+sciences, and the detailed descriptive protocols in the empirical sciences (the
+“methods” section of a paper describing the mechanics of the controlled
+experiment and hypothesis test). Computational science is only a few decades
+old and must develop similar standards, so that other research ers in the field
+can independently verify published results.
 
 this
 ----
@@ -152,6 +154,8 @@ Open Source Software
 Open Data
 
 - CC0: Can data be copyrighted? Isn't it just fact?
+
+- Literate programming
 
 How do we do this?
 
